@@ -27,7 +27,7 @@ print(friends[random.randint(0,4)])
 print(random.choice(friends))
 
 #Rock, Paper or Scissors game
-move1= int(input("Welcome to Rock, Paper or Scissors game!\nPlease enter 0 for Rock, 1 for Paper or 2 for Scissors."))
+move1= int(input("Welcome to Rock, Paper or Scissors game!\nPlease enter 0 for Rock, 1 for Paper or 2 for Scissors.\n"))
 rock=("""
     _______
 ---'   ____)
