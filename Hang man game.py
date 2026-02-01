@@ -58,4 +58,4 @@ while not game_over:
         print("***YOU HAVE 1/6 LIVES LEFT***")
     else:
         print(HANGMANPICS[6])
-        print("Game over. You lose!")
+        print("Game over. You lose!\nThe word was: " + rand_word)
